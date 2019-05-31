@@ -1,0 +1,22 @@
+TIC-TAC-TOE game implementation in python
+Submitted by
+- Payal Bhosale [16109]
+- Supriya Shahane [16151]
+
+[1] OOPS concept implementation
+- Inherintence
+- Polymorphism
+- Encapsulation
+
+Classes used-
+- Board
+- User_show
+- Ai_move
+
+[2] Quality implementation
+- Scalable
+- Stateless
+- Idempotent
+- No valueerror, keyboard exceptation
+- only except [y/n] [e/h/m] [0-8] values
+- gives instructions to user about inproper block selection
